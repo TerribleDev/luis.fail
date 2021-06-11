@@ -1,7 +1,11 @@
 .main {
-  width: 60vw;
-  padding: 0 20vw;
+  width: 80vw;
+  padding: 0 10vw;
   display: flex;
   flex-flow: column;
   align-items: center;
+}
+
+.fluid {
+  max-width: 100%;
 }

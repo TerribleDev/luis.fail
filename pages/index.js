@@ -13,7 +13,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1>Luis.Fail</h1>
         <h3>June 9th 2021</h3>
-        <img src="/img/email.png" alt="Operah email meme" />
+        <img className={styles.fluid} src="/img/email.png" alt="Operah email meme" />
       </main>
     </>
   )
