@@ -1,0 +1,7 @@
+.main {
+  width: 60vw;
+  padding: 0 20vw;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
